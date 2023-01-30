@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Search",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Search_Utils",
+  "deleted": false,
+  "gitSyncId": "63d76b8804c4c52a8f3c7fa7_63d76bba04c4c52a8f3c8025"
+}
